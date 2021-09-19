@@ -1,7 +1,7 @@
 <img src="https://img.ibxk.com.br/2016/02/15/15191853192732.jpg?w=1120&h=420&mode=crop&scale=both" height="70%">
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<div style="width:100%;height:0;padding-bottom:99%;position:relative;"><iframe src="https://giphy.com/embed/KYh1vSXtcdl0RYgLCR" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/education-data-naep-KYh1vSXtcdl0RYgLCR">via GIPHY</a></p>**I'm Luca, graduated in Computer Science.**
+**I'm Luca, graduated in Computer Science.**
 
 ### About me
 - 👨🏼‍💻 Skilled in Python, SQL, Machine Learning and Data Visualization.
