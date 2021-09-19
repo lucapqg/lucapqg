@@ -1,11 +1,28 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+**I'm Luca, graduated in Computer Science.**
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+### About me
+- 👨🏼‍💻 Skilled in Python, SQL, Machine Learning and Data Visualization.
+- 🔭 I’m currently working on Machine Learning and Data Visualization projects.
+- 🌱 I’m currently learning NLP
+- 🤝 I’m looking to collaborate on anything related to Python, Machine Learning and Data Visualization projects.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iagoteixeira), [Email](mailto:iago.sty@gmail.com)
+- 💬 Ask me about anything, I am happy to help :)
+</br>
+<div>
+<a href="https://www.linkedin.com/in/iagoteixeira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://iagoitz.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+<a href="mailto:iago.sty@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+</br>
+<div>
+  <a href="https://github.com/iagoit">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagoit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoit&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+<br>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iagoit.iagoit)
+
