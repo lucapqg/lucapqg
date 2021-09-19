@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Machine Learning and Data Visualization projects.
 - 🌱 I’m currently learning NLP
 - 🤝 I’m looking to collaborate on anything related to Python, Machine Learning and Data Visualization projects.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/iagoteixeira), [Email](mailto:iago.sty@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luca-peres-bcc/), [Email](mailto:lucapqg@gmail.com)
 - 💬 Ask me about anything, I am happy to help :)
 </br>
 
