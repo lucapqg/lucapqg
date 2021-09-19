@@ -1,3 +1,5 @@
+<img src="https://img.ibxk.com.br/2016/02/15/15191853192732.jpg?w=1120&h=420&mode=crop&scale=both" width="">
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 **I'm Luca, graduated in Computer Science.**
