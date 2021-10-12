@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Machine Learning and Data Visualization projects.
 - 🌱 I’m currently learning NLP
 - 🤝 I’m looking to collaborate on anything related to Python, Machine Learning and Data Visualization projects.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luca-peres-bcc/), [Email](mailto:lucapqg@gmail.com)
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/lucapqg), [Email](mailto:lucapqg@gmail.com)
 - 💬 Ask me about anything, I am happy to help :)
 </br>
 
@@ -20,7 +20,7 @@
 </br>
 
 <div>
-  <a href="https://www.linkedin.com/in/luca-peres-bcc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/lucapqg" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@lucapqg" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="mailto:https://medium.com/@lucapqg" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
