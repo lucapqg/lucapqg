@@ -1,0 +1,9 @@
+,XGBClassifier,XGBClassifier,CatBoostClassifier_SQRT,CatBoostClassifier_SQRT,CatBoostClassifier_BLCD,CatBoostClassifier_BLCD,GradientBoostingClassifier,GradientBoostingClassifier
+,medidor,medidor,medidor,medidor,medidor,medidor,medidor,medidor
+,1,0,1,0,1,0,1,0
+1,8936,71,8946,61,8941,66,9005,2
+0,11,207,15,203,11,207,178,40
+1,8955,51,8963,43,8944,62,9005,1
+0,11,208,14,205,10,209,175,44
+1,8941,65,8957,49,8942,64,9002,4
+0,17,201,21,197,17,201,177,41
