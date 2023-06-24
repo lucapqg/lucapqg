@@ -58,7 +58,7 @@ Tenho paixão por Ciência de Dados e estou sempre em busca de novos desafios e 
 - Projeto de sistema para detecção de vazamentos de água em sistemas de distribuição utilizando machine learning.
 
 ## Ferramentas:
-Python, PySpark, Docker, Microsoft Power BI, Metabase, SQL Server, DBeaver, SQL, Java, C, VS Code, Databricks, Azure Data Factory, Airflow, MLflow, Dash, Streamlit.
+Python, PySpark, Docker, Microsoft Power BI, Metabase, SQL Server, DBeaver, SQL, Java, C, VS Code, Databricks, Excel, Azure Data Factory, Airflow, MLflow, Dash, Streamlit.
 
 ## Projetos pessoais
 
