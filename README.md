@@ -1,6 +1,6 @@
 <img src="https://img.ibxk.com.br/2016/02/15/15191853192732.jpg?w=1120&h=420&mode=crop&scale=both" height="70%">
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 Olá, meu nome é Luca e sou formado em Ciências da Computação desde janeiro de 2023. Meu principal campo de atuação é a Ciência de Dados, e tenho experiência em diversos projetos relevantes nessa área. Sou uma pessoa pró-ativa, apaixonada por dados e sempre em busca de novos desafios. Tenho facilidade em aprender novas tecnologias e gosto de trabalhar em equipe, colaborando para o desenvolvimento de soluções impactantes.
