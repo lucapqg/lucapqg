@@ -59,7 +59,8 @@ Tenho paixão por Ciência de Dados e estou sempre em busca de novos desafios e 
 
 ## Ferramentas:
 
-**$\textcolor{red}{\textsf{Python, PySpark, Docker, Microsoft Power BI, Metabase, SQL Server, DBeaver, SQL, Java, C, VS Code, Databricks, Excel, Azure Data Factory, Airflow, MLflow, Dash, Streamlit.}}$**
+**$\textcolor{red}{\textsf{Python, PySpark, Docker, Microsoft Power BI, Metabase, SQL Server, DBeaver, SQL, Java,}}$** 
+**$\textcolor{red}{\textsf{C, VS Code, Databricks, Excel, Azure Data Factory, Airflow, MLflow, Dash, Streamlit.}}$** 
 
 
 
