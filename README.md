@@ -17,7 +17,7 @@ Tenho paixão por Ciência de Dados e estou sempre em busca de novos desafios e 
 - Testando a solução com usuários, aprendendo e adaptando.
 - Planejamento e lançamento de soluções impactantes.
 
-**Cientista de Dados | Banco do Brasil Tecnologia e Serviços | Cedit (jan/2023 - Atualmente)**
+**Cientista de Dados | Banco do Brasil Tecnologia e Serviços - Cedit (jan/2023 - Atualmente)**
 - Desenvolvimento de ETL utilizando PySpark e Databricks.
 - Ingestão e criação de pipelines no Azure Data Factory.
 - Criação de dashboards utilizando Metabase.
