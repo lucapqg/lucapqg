@@ -43,7 +43,7 @@ Tenho paixão por Ciência de Dados e estou sempre em busca de novos desafios e 
 
 **CAESB:**
 - Projetos de machine learning utilizando algoritmos de boosting para previsão de classificação multi-label de arranjos para 
-  operação de motores da reservação do Rio Descoberto.
+  operação de motores de bombeamento de água no centro de controle de reservação do Rio Descoberto.
 - Previsão de consumo de água baseado em dados climáticos e temporais extraídos por meio de web scraping para análise de 
   vazamentos na rede de abastecimento.
 - Previsão de turbidez para auxílio de tomada de decisão operacional em estações de tratamento de água
