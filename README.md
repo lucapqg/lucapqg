@@ -10,45 +10,52 @@ Tenho paixão por Ciência de Dados e estou sempre em busca de novos desafios e 
 
 ## Experiência Profissional
 
+**UNLEASH Plus (jun/2023-dez/2023)**
+- Definir um problema com base nas necessidades do usuário e insights claros.
+- Brainstorming e seleção de ideias para resolver o problema.
+- Criar versões simples da ideia para entender como ela funcionará na vida real.
+- Testando a solução com usuários, aprendendo e adaptando.
+- Planejamento e lançamento de soluções impactantes.
+
 **Cientista de Dados | Banco do Brasil Tecnologia e Serviços | Cedit (jan/2023 - Atualmente)**
-- Desenvolvimento de ETL utilizando PySpark e Databricks
-- Ingestão e criação de pipelines no Azure Data Factory
-- Criação de dashboards utilizando Metabase
+- Desenvolvimento de ETL utilizando PySpark e Databricks.
+- Ingestão e criação de pipelines no Azure Data Factory.
+- Criação de dashboards utilizando Metabase.
 
 **Cientista de Dados | CAESB PAN (mai/2022 - Presente)**
-- Desenvolvimento de painéis
-- Geoprocessamento de dados espaciais utilizando Python
-- Análise de dados de perdas de distribuição de água
+- Desenvolvimento de painéis.
+- Geoprocessamento de dados espaciais utilizando Python.
+- Análise de dados de perdas de distribuição de água.
 
 **Cientista de Dados | CAESB PGOC (nov/2021 - mai/2022)**
-- Rotinas de extração e tratamento de dados
-- Modelagem e análise de dados utilizando Python, SQL e PySpark
-- Detecção de outliers utilizando métodos estatísticos
-- Desenvolvimento e aplicação de modelos de machine learning e deep learning
+- Rotinas de extração e tratamento de dados.
+- Modelagem e análise de dados utilizando Python, SQL e PySpark.
+- Detecção de outliers utilizando métodos estatísticos.
+- Desenvolvimento e aplicação de modelos de machine learning e deep learning.
 
 **Estagiário | CAESB PGOC (out/2019 - out/2021)**
-- Rotinas de extração e tratamento de dados
-- Modelagem e análise de dados utilizando Python e SQL
-- Detecção de outliers utilizando métodos estatísticos
-- Desenvolvimento e aplicação de modelos de machine learning e deep learning
+- Rotinas de extração e tratamento de dados.
+- Modelagem e análise de dados utilizando Python e SQL.
+- Detecção de outliers utilizando métodos estatísticos.
+- Desenvolvimento e aplicação de modelos de machine learning e deep learning.
 
 ## Projetos Realizados
 
 **CAESB:**
 - Projetos de machine learning utilizando algoritmos de boosting para previsão de classificação multi-label de arranjos para 
-  operação de motores da reservação do Rio Descoberto
+  operação de motores da reservação do Rio Descoberto.
 - Previsão de consumo de água baseado em dados climáticos e temporais extraídos por meio de web scraping para análise de 
-  vazamentos na rede de abastecimento
+  vazamentos na rede de abastecimento.
 - Previsão de turbidez para auxílio de tomada de decisão operacional em estações de tratamento de água
-- Previsão de nível de reservatórios para monitoramento de extravasamentos
+- Previsão de nível de reservatórios para monitoramento de extravasamentos.
 - Painéis de monitoramento em tempo real de distritos de distribuição de água utilizando Dash, Docker, Python e Microsoft 
-  Power BI para o monitoramento de perdas hídricas, consertos de rede e operação
+  Power BI para o monitoramento de perdas hídricas, consertos de rede e operação.
 
 **BBTS:**
-- Projeto de visualizações e análises para auxílio de processos de toda a área de gestão de pessoas da BBTS
+- Projeto de visualizações e análises para auxílio de processos de toda a área de gestão de pessoas da BBTS.
 
 **UNLEASH Plus:**
-- Projeto de sistema para detecção de vazamentos de água em sistemas de distribuição utilizando machine learning
+- Projeto de sistema para detecção de vazamentos de água em sistemas de distribuição utilizando machine learning.
 
 ## Ferramentas:
 Python, PySpark, Docker, Microsoft Power BI, Metabase, SQL Server, DBeaver, SQL, Java, C, VS Code, Databricks, Azure Data Factory, Airflow, MLflow.
