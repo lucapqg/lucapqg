@@ -62,12 +62,10 @@ Python, PySpark, Docker, Microsoft Power BI, Metabase, SQL Server, DBeaver, SQL,
 
 Projetos pessoais:
 
-Creating Links in Markdown | The AnVIL
-
-[Machine Learning](https://link-url-here.org)
-[Deep Learning]()
-[Statistic]()
-[Pyspark]()
+[Machine Learning](https://github.com/lucapqg/Machine-learning)
+[Deep Learning](https://github.com/lucapqg/Deep-learning)
+[Statistic](https://github.com/lucapqg/Statistic)
+[Pyspark](https://github.com/lucapqg/Pyspark)
 
 
 </br>
