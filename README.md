@@ -62,10 +62,13 @@ Python, PySpark, Docker, Microsoft Power BI, Metabase, SQL Server, DBeaver, SQL,
 
 Projetos pessoais:
 
-[Machine Learning](https://github.com/lucapqg/Machine-learning)
-[Deep Learning](https://github.com/lucapqg/Deep-learning)
-[Statistic](https://github.com/lucapqg/Statistic)
-[Pyspark](https://github.com/lucapqg/Pyspark)
+-[Machine Learning](https://github.com/lucapqg/Machine-learning)
+
+-[Deep Learning](https://github.com/lucapqg/Deep-learning)
+
+-[Statistic](https://github.com/lucapqg/Statistic)
+
+-[Pyspark](https://github.com/lucapqg/Pyspark)
 
 
 </br>
