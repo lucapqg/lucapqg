@@ -60,7 +60,7 @@ Tenho paixão por Ciência de Dados e estou sempre em busca de novos desafios e 
 ## Ferramentas:
 Python, PySpark, Docker, Microsoft Power BI, Metabase, SQL Server, DBeaver, SQL, Java, C, VS Code, Databricks, Azure Data Factory, Airflow, MLflow, Dash, Streamlit.
 
-## Projetos pessoais:
+## Projetos pessoais
 
 - [**Machine Learning**](https://github.com/lucapqg/Machine-learning)
 
