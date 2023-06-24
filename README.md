@@ -53,9 +53,8 @@ Tenho paixão por Ciência de Dados e estou sempre em busca de novos desafios e 
 ## Ferramentas:
 Python, PySpark, Docker, Microsoft Power BI, Metabase, SQL Server, DBeaver, SQL, Java, C, VS Code, Databricks, Azure Data Factory, Airflow, MLflow.
 
-Com uma sólida formação em Ciências da Computação e especialização em Ciência de Dados, tenho ampla experiência em projetos de análise, modelagem e aplicação de técnicas de machine learning e deep learning. Durante minha trajetória profissional, destaco minha participação em projetos desafiadores na CAESB, onde pude desenvolver soluções inovadoras para previsão de consumo de água, monitoramento de reservatórios e detecção de vazamentos.
 
-Além disso, na minha atuação como Cientista de D
+
 </br>
 
 <div>
