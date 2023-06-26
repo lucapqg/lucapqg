@@ -22,7 +22,7 @@ Tenho paixão por Ciência de Dados e estou sempre em busca de novos desafios e 
 - Ingestão e criação de pipelines no Azure Data Factory.
 - Criação de dashboards utilizando Metabase.
 
-**Cientista de Dados | CAESB PAN (mai/2022 - Presente)**
+**Cientista de Dados | CAESB PAN (mai/2022 - jan/2023)**
 - Desenvolvimento de painéis.
 - Geoprocessamento de dados espaciais utilizando Python.
 - Análise de dados de perdas de distribuição de água.
