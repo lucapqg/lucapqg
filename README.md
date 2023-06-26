@@ -3,7 +3,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-Olá, meu nome é Luca e sou formado em Ciências da Computação desde janeiro de 2022. Meu principal campo de atuação é a Ciência de Dados, e tenho experiência em diversos projetos relevantes nessa área. Sou uma pessoa pró-ativa, apaixonada por dados e sempre em busca de novos desafios. Tenho facilidade em aprender novas tecnologias e gosto de trabalhar em equipe, colaborando para o desenvolvimento de soluções impactantes.
+Olá, meu nome é Luca e sou formado em Ciências da Computação desde janeiro de 2022. Meu principal campo de atuação é a Ciência de Dados, e tenho experiência em diversos projetos relevantes nessa área. Sou uma pessoa pró-ativa, tenho facilidade em aprender novas tecnologias e gosto de trabalhar em equipe, colaborando para o desenvolvimento de soluções impactantes.
 
 Atualmente, trabalho no Banco do Brasil Tecnologia e Serviços, na equipe Cedit.
 Tenho paixão por Ciência de Dados e estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e contribuir para o desenvolvimento de soluções inovadoras.
