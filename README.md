@@ -21,24 +21,28 @@ Tenho paixão por Ciência de Dados e estou sempre em busca de novos desafios e 
 - Desenvolvimento de ETL utilizando PySpark e Databricks.
 - Ingestão e criação de pipelines no Azure Data Factory.
 - Criação de dashboards utilizando Metabase.
-
+- Analytics
+  
 **Cientista de Dados | CAESB PAN (mai/2022 - jan/2023)**
 - Desenvolvimento de painéis.
 - Geoprocessamento de dados espaciais utilizando Python.
 - Análise de dados de perdas de distribuição de água.
-
+- Analytics
+- 
 **Cientista de Dados | CAESB PGOC (nov/2021 - mai/2022)**
 - Rotinas de extração e tratamento de dados.
 - Modelagem e análise de dados utilizando Python, SQL e PySpark.
 - Detecção de outliers utilizando métodos estatísticos.
 - Desenvolvimento e aplicação de modelos de machine learning e deep learning.
+- Analytics
 
 **Estagiário | CAESB PGOC (out/2019 - out/2021)**
 - Rotinas de extração e tratamento de dados.
 - Modelagem e análise de dados utilizando Python e SQL.
 - Detecção de outliers utilizando métodos estatísticos.
 - Desenvolvimento e aplicação de modelos de machine learning e deep learning.
-
+- Analytics
+  
 ## Projetos Realizados
 
 **CAESB:**
