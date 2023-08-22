@@ -10,25 +10,25 @@ Tenho paixão por Ciência de Dados e estou sempre em busca de novos desafios e 
 
 ## Experiência Profissional
 
+**Cientista de Dados | Banco do Brasil Tecnologia e Serviços - Cedit (jan/2023 - Atualmente)**
+- Desenvolvimento de notebooks para ETL utilizando PySpark e Databricks.
+- Ingestão e criação de pipelines no Azure Data Factory.
+- Criação de dashboards utilizando Metabase.
+- Analytics
+  
 **UNLEASH Plus (jun/2023-dez/2023)**
 - Definir um problema com base nas necessidades do usuário e insights claros.
 - Brainstorming e seleção de ideias para resolver o problema.
 - Criar versões simples da ideia para entender como ela funcionará na vida real.
 - Testando a solução com usuários, aprendendo e adaptando.
 - Planejamento e lançamento de soluções impactantes.
-
-**Cientista de Dados | Banco do Brasil Tecnologia e Serviços - Cedit (jan/2023 - Atualmente)**
-- Desenvolvimento de ETL utilizando PySpark e Databricks.
-- Ingestão e criação de pipelines no Azure Data Factory.
-- Criação de dashboards utilizando Metabase.
-- Analytics
   
 **Cientista de Dados | CAESB PAN (mai/2022 - jan/2023)**
 - Desenvolvimento de painéis.
 - Geoprocessamento de dados espaciais utilizando Python.
 - Análise de dados de perdas de distribuição de água.
 - Analytics
-- 
+  
 **Cientista de Dados | CAESB PGOC (nov/2021 - mai/2022)**
 - Rotinas de extração e tratamento de dados.
 - Modelagem e análise de dados utilizando Python, SQL e PySpark.
